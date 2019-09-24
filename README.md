@@ -1,6 +1,8 @@
-# RGB Color Game
+# RGB Color Game (Under Maintenance)
 
-## steps
+## steps 
+
+### Phase 1
 
 * create html file (9 squares)
 * create css file
