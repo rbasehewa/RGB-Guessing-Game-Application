@@ -57,9 +57,9 @@ function generateRandomColors(num){
 
 function randomColor(){
     // pick a red from 0 to 255
-
+        var r = Math.floor(Math.random() * 255);
     // pick a green from 0 to 255
 
     // pick a blue from 0 to 255
-    
+
 }
