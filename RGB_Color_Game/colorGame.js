@@ -54,3 +54,12 @@ function generateRandomColors(num){
 
     return random;
 }
+
+function randomColor(){
+    // pick a red from 0 to 255
+
+    // pick a green from 0 to 255
+
+    // pick a blue from 0 to 255
+    
+}
