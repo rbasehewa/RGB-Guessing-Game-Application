@@ -50,7 +50,7 @@ function generateRandomColors(num){
     for(var i = 0;i < num; i++){
     //get the color and push into arr
 
-    random = random.push(randomColor());
+     random.push(randomColor());
     }
     // return that array
 
