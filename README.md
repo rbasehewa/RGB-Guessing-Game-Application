@@ -28,4 +28,4 @@
 
 ## few shorts reviewing final product
 
-![Header](https://github.com/rbasehewa/RGB-Guessing-Game-Application/img/game.JPG)
+![Header](https://github.com/rbasehewa/RGB-Guessing-Game-Application/blob/master/RGB_Color_Game/img/game.JPG)
